@@ -56,12 +56,12 @@ body > div > nav > h2 > img {
   padding: 160px;
 }
 
-.right {
+.fade-right {
   margin-left: 100px;
   width: 55%;
 }
 
-.right button {
+.fade-right button {
   padding: 12px 20px;
 }
 
@@ -76,11 +76,11 @@ body > div > nav > h2 > img {
   height: 420px;
 }
 
-.right h1 {
+.fade-right h1 {
   font-size: 50px;
 }
 
-.right h2 {
+.fade-right h2 {
   width: 65%;
   margin: 12px 0px;
 }
